@@ -1,2 +1,2 @@
-# LeonardoArduino-Code
-Leonardo-Arduino code for bad USB Dropper
+# PoorMan's Rubber Ducky
+Leonardo-Arduino Script which will create PoorMan's Rubber Ducky.
